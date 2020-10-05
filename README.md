@@ -1,2 +1,2 @@
 # aqua-frontend
-Aplicação rede social de imagens do mundo aqua -  Em andamento
+Aplicação frontend rede social de imagens do mundo aqua -  Em andamento
